@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuntimeConfiguration>
+  <Mod ID="BetterCheatMenu" UniqueID="BetterCheatMenu-1.0.0.1-72cce4973a3cbfce642a6d98cd804149" Version="1.0.0.1">
+    <Button ID="OpenMenu">V</Button>
+    <Button ID="Fly">F6</Button>
+    <Button ID="Noclip">F7</Button>
+    <Button ID="FreeCam">F3</Button>
+  </Mod>
+  <ExecuteOnGameStart ModID="BetterCheatMenu">System.Void BetterCheatMenu.Menu::AddMeToScene()</ExecuteOnGameStart>
+  <ExecuteOnGameStart ModID="BetterCheatMenu">System.Void BetterCheatMenu.Menu::FindAnimals()</ExecuteOnGameStart>
+  <ExecuteOnGameStart ModID="BetterCheatMenu">System.Void BetterCheatMenu.Menu::FindProps()</ExecuteOnGameStart>
+  <ExecuteOnGameStart ModID="BetterCheatMenu">System.Void BetterCheatMenu.Menu::FindObjects()</ExecuteOnGameStart>
+  <ExecuteOnGameStart ModID="BetterCheatMenu">System.Void BetterCheatMenu.Menu::FindBolts()</ExecuteOnGameStart>
+</RuntimeConfiguration>
