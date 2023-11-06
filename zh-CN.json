@@ -194,11 +194,8 @@
     "NoSurvivalFeatures": "无生存特征",
     "GameMode": "游戏模式",
     "DifficultyMode": "游戏难度",
-    "Crosshair": "十字准星",
-    "CrosshairDesc": "如果十字线没有出现，打开和关闭您的背包和生存书 或者尝试点击Apply应用",
-    "Opacity": "不透明度",
-    "Size": "大小",
     "MoreBCMFunctions": "更多BCM功能",
+    "VerDev":"Powered By Feng1776"
     "InfiniteGardenSize": "无限花园大小",
     "InfiniteBuildingHeight": "无限建筑高度",
     "Scrollwheel": "使用鼠标的滚轮更改范围操作半径",
